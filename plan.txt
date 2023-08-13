@@ -1,0 +1,17 @@
+Phase 1 
+-Finish Web pages
+    -Pages needed
+        -Sign in 
+        -Create profile (All necessary pages) 
+        -My profile 
+        -Place to look at resturants 
+        -Map?
+        -Matches with other people 
+        -Chat 
+        -
+-Figure out how people will match
+-
+
+Phase 2
+-Implement the API to properly find locations 
+
